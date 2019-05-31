@@ -5,11 +5,12 @@
 # Site
 title: Interesting Team
 subtitle:
-description:
+description: 有趣的灵魂万里挑一
 keywords:
 author: Interesting Team
 language: zh-Hans
 timezone:
+avatar: http://www.nobexwebsites.com/Content/img/panda%20(1).png
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
